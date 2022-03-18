@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Tên sản phẩm",
+    "price": "Giá tiền",
+    "quantity_unit": "Đơn vị",
+    "category": "Phân loại",
+    "note": "Ghi chú",
+    "image": "Hình ảnh"
+  },
+  {
+    "name": "Mì Hảo Hảo",
+    "price": "93000",
+    "quantity_unit": "thùng",
+    "category": "1",
+    "note": "",
+    "image": "https://acecookvietnam.vn/wp-content/uploads/2017/07/H%E1%BA%A3o-H%E1%BA%A3o-T%C3%B4m-chua-cay_down33_.png"
+  },
+  {
+    "name": "Mì Aone",
+    "price": "135000",
+    "quantity_unit": "thùng",
+    "category": "2",
+    "note": "",
+    "image": "https://cdn.tgdd.vn/Products/Images/2565/80181/bhx/mi-a-one-thit-xao-85g-2-700x467.jpg"
+  },
+  {
+    "name": "Mì Tiểu Nhị",
+    "price": "88000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://cf.shopee.vn/file/43baf35b4dd91aa2b8e17c1d826a0673"
+  },
+  {
+    "name": "Mì Ly Modern",
+    "price": "150000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://acecookvietnam.vn/wp-content/uploads/2017/08/3D-LAU-THAI-TOM_salce1-1.png"
+  },
+  {
+    "name": "Phở Tím Vifon",
+    "price": "165000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://cdn.tgdd.vn/Products/Images/2566/80087/bhx/pho-vi-bo-vifon-goi-65g-201911270930039500.jpg"
+  },
+  {
+    "name": "Hủ Tiếu Nam Vang Acecook ",
+    "price": "190000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://csfood.vn/wp-content/uploads/2018/01/H%E1%BB%A7-Ti%E1%BA%BFu-Nam-Vang-Nh%E1%BB%8Bp-S%E1%BB%91ng-Acecook-Th%C3%B9ng-30-g%C3%B3i-x-70g.jpg"
+  },
+  {
+    "name": "Coca lon",
+    "price": "175000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://bizweb.dktcdn.net/100/036/299/products/1503-9de8f3562b364e56b550ff30bc493122-2c0db7cc76fd4b7f8b3c767fb24bc277-d4f804d8fc474b4bae5f628ff0d632e0-master.jpg?v=1641470964077"
+  },
+  {
+    "name": "Pepsi lon",
+    "price": "170000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://minhcaumart.vn/media/com_eshop/products/8934588012228%201.jpg"
+  },
+  {
+    "name": "Bò cụng Thái",
+    "price": "250000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://cf.shopee.vn/file/9b49c5b394dbdefb85a66304a2f16f34"
+  },
+  {
+    "name": "Đậu nành lon",
+    "price": "150000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://cf.shopee.vn/file/31b072329a8d42bf3260a144fdc40d57_tn"
+  },
+  {
+    "name": "Suối aquafina",
+    "price": "80000",
+    "quantity_unit": "thùng",
+    "category": "",
+    "note": "",
+    "image": "https://truongphatdat.com/wp-content/uploads/2018/10/aquafina-500ml-1.jpg"
+  },
+  {
+    "name": "Bánh gạo ichi",
+    "price": "14000",
+    "quantity_unit": "gói",
+    "category": "",
+    "note": "",
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/2b/7d/30/677241aa4f32d39c8a890be545979ea6.jpg"
+  },
+  {
+    "name": "Bánh gạo ngọt one",
+    "price": "14000",
+    "quantity_unit": "gói",
+    "category": "",
+    "note": "",
+    "image": "https://cf.shopee.vn/file/423da73ad21150dbf2d233ce135c088c"
+  },
+  {
+    "name": "Bánh gạo dài bò one",
+    "price": "19000",
+    "quantity_unit": "gói",
+    "category": "",
+    "note": "",
+    "image": "https://cdn.tgdd.vn/Products/Images/3361/161252/bhx/banh-gao-one-one-vi-pho-mai-bap-118g-2-700x467.jpg"
+  },
+  {
+    "name": "Bánh gạo phomai",
+    "price": "22000",
+    "quantity_unit": "gói",
+    "category": "",
+    "note": "",
+    "image": "https://cdn.tgdd.vn/Products/Images/3361/161252/bhx/banh-gao-one-one-vi-pho-mai-bap-118g-2-org.jpg"
+  },
+  {
+    "name": "Bánh gạo cá nhật",
+    "price": "20000",
+    "quantity_unit": "gói",
+    "category": "",
+    "note": "",
+    "image": "https://salt.tikicdn.com/cache/400x400/ts/product/2b/7d/30/677241aa4f32d39c8a890be545979ea6.jpg"
+  }
+ ]
