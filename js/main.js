@@ -240,13 +240,13 @@
                 product = '<div class="col col-lg-3">' +
                     '<div class="single-new-product">' +
                     '<div class="product-img">' +
-                    // '<a href="product-details.html">' +
+                    '<a href="">' +
                     '<img src="'+ value.image + '" class="img " alt="" style="margin: auto; width: 200px; height: 200px; object-fit: contain ;" />' +
 
                     '</a>' +
                     '</div>' +
                     '<div class="product-content text-center">' +
-                    '<a href="product-details.html"><h3>' + value.name + '</h3></a>' +
+                    '<a href=""><h3>' + value.name + '</h3></a>' +
                     '<div class="price">' +
                     '<h4>'+ value.price + '/' + value.quantity_unit +'</h4> ' +
                     // '<h3 class="del-price"><del>'+ value.price +'</del></h3>' +

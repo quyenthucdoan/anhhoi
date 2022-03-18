@@ -1,13 +1,5 @@
 [
   {
-    "name": "Tên sản phẩm",
-    "price": "Giá tiền",
-    "quantity_unit": "Đơn vị",
-    "category": "Phân loại",
-    "note": "Ghi chú",
-    "image": "Hình ảnh"
-  },
-  {
     "name": "Mì Hảo Hảo",
     "price": "93000",
     "quantity_unit": "thùng",
